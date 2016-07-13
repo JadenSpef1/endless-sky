@@ -700,6 +700,7 @@ phrase "friendly navy"
 		"Protect"
 		"Travel"
 		"View"
+		"Observe"
 	word
 		" the galaxy!"
 		" the Republic!"
@@ -709,17 +710,20 @@ phrase "friendly navy"
 		" the South!"
 		" the Dirt Belt!"
 		" the Deep!"
+		" The Universe!"
 
 phrase "friendly navy"
 	word
 		"Join "
 		"Become part of "
+		"Stick with"
 	word
 		"the Navy, "
 	word
 		" the biggest "
 		" the largest "
 		" the greatest "
+		" Best "
 	word
 		"humanitarian "
 		"peacekeeping "
@@ -729,6 +733,7 @@ phrase "friendly navy"
 	word
 		"organization"
 		"force"
+		"group"
 	word
 		" in the galaxy!"
 		" in the Republic!"
@@ -1531,9 +1536,11 @@ phrase "hostile bounty hunter"
 		" get rid of you"
 		" make you disappear"
 		" make you go away"
+		" exterminate you"
 	word
 		"."
 		"!"
+		"!!"
 
 phrase "hostile bounty hunter"
 	word
@@ -1620,6 +1627,7 @@ phrase "hostile pug"
 	word
 		"mistake."
 		"error."
+		"error in choice."
 		"lapse in judgement."
 		"choice."
 		"decision."
@@ -1645,6 +1653,7 @@ phrase "hostile syndicate"
 		" from "
 	word
 		"brutes"
+		"pirates"
 		"bullies"
 		"beasts"
 		"barbarians"
